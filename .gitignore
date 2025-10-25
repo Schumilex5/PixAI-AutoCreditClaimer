@@ -1,0 +1,11 @@
+# Ignore local credentials and runtime artifacts
+*.env
+.env.local
+chrome_selenium_wrapper/
+*.png
+*.html
+PixAI_Results.txt
+__pycache__/
+venv/
+.venv/
+env/
