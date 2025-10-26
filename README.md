@@ -1,6 +1,11 @@
-### Steps
-
+### First way:
 1. Dowload this repo as zip or clone it
-2. Install the "requirements.txt" for your python enviroment (in VS Code you can ctr+shift+P to create virtual enviroment by selecting venv, obviously you need to install python first from MS store or something)
+2. Create a virtual python enviroment in the same folder, install the requirements. OR install requirements on your OS level python
 3. Fill "AccountList.xlsx" with your account details (email + password in the correct columns)
-4. Run "open_pixai.py" (VS Code: Right click -> Run Python -> Run Python file  file in terminal)
+4. Double click "autologin_run.bat"
+
+### Second Way
+1. Dowload this repo as zip or clone it
+2. Create a virtual python enviroment in the same folder, install the requirements
+3. Fill "AccountList.xlsx" with your account details (email + password in the correct columns)
+4. Run "open_pixai.py" from you IDE or your preferred way
