@@ -1,3 +1,7 @@
+Made for personal use.
+#Feature
+- Claim daily credit rewards on an unlimited amount of accounts
+
 ### First way:
 1. Dowload this repo as zip or clone it
 2. Create a virtual python enviroment in the same folder, install the requirements. OR install requirements on your OS level python
