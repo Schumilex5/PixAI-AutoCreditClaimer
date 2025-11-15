@@ -1,6 +1,6 @@
 Made for personal use.
 
-###Feature
+###Feature:
 - Claim daily credit rewards on an unlimited amount of accounts
 
 ### First way:
